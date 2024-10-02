@@ -1,7 +1,7 @@
 "use client";
 
 import React, { ReactNode, useCallback, useEffect, useMemo, useState } from "react";
-import { AbstractThemeContextProviderActions, AbstractThemeContextProviderProps, Theme } from "../interface/abstract-theme";
+import { AbstractThemeContextProviderActions, AbstractThemeContextProviderProps, Theme } from "../interface/abstract-theme-interfaces";
 
 export const AbstractThemeContext = React.createContext<AbstractThemeContextProviderActions<any>>({} as AbstractThemeContextProviderActions<any>);
 

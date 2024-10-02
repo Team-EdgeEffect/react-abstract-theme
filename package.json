@@ -1,6 +1,6 @@
 {
     "name": "@edge-effect/react-abstract-theme",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "implementing abstract themes in React",
     "keywords": [
         "vanilla-extract/css",
